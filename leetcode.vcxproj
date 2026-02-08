@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Bracket Detection.cpp" />
+    <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="frist file.cpp" />
     <ClCompile Include="tool file.cpp" />
     <ClCompile Include="tou.cpp" />

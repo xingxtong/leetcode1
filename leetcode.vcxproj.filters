@@ -27,6 +27,9 @@
     <ClCompile Include="tool file.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Fibonacci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hhh.h">
